@@ -1,2 +1,2 @@
-这是一个git上传文件
-二次修改
+Git is a version control system.
+Git is free software.
